@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "435902603922",
+    "project_id": "from-scratch-app",
+    "storage_bucket": "from-scratch-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435902603922:android:43b7952c1980dfe78b7c4b",
+        "android_client_info": {
+          "package_name": "com.example.fromscratchapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435902603922-r0f0tting4np2nn3v3e75s5mgprjil0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh4R_RMpv3dwiUZDSyhvKEtFCuKrGshrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435902603922-r0f0tting4np2nn3v3e75s5mgprjil0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
